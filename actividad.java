@@ -8,6 +8,7 @@ public class actividad {
 
     public class materia{
         String nombre;
+
         materia[] correlativas = new materia[40];
 
         boolean chequearCorrelativas(alumno alumno){
